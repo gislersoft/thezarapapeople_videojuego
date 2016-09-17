@@ -1,43 +1,74 @@
 fileFormatVersion: 2
-guid: f24fb0ed915adfd4686e381a3f4ebad4
-timeCreated: 1474128497
+guid: 73ebb53c56736ae4cb33c984117fad75
+timeCreated: 1474127425
 licenseType: Free
 ModelImporter:
   serializedVersion: 19
   fileIDToRecycleName:
     100000: Armature
-    100002: Bone
-    100004: Bone_001
-    100006: Bone_002
-    100008: Bone_003
-    100010: Bone_004
-    100012: Bone_005
-    100014: Bone_006
-    100016: Bone_007
-    100018: Bone_008
-    100020: cebolla_low_poly_001
-    100022: //RootNode
+    100002: brazolow_l
+    100004: brazolow_l_001
+    100006: brazolow_r
+    100008: brazolow_r_001
+    100010: brazoup_l
+    100012: brazoup_r
+    100014: cabeza
+    100016: control
+    100018: hoja
+    100020: //RootNode
+    100022: mano_l
+    100024: mano_r
+    100026: muslo_l
+    100028: muslo_r
+    100030: pCube1
+    100032: pCube2
+    100034: pCube3
+    100036: pecho
+    100038: pie_l
+    100040: pie_r
+    100042: pierna_l
+    100044: pierna_l_001
+    100046: pierna_r
+    100048: pierna_r_001
+    100050: transform1
+    100052: transform2
     400000: Armature
-    400002: Bone
-    400004: Bone_001
-    400006: Bone_002
-    400008: Bone_003
-    400010: Bone_004
-    400012: Bone_005
-    400014: Bone_006
-    400016: Bone_007
-    400018: Bone_008
-    400020: cebolla_low_poly_001
-    400022: //RootNode
-    4300000: cebolla_low_poly_001
+    400002: brazolow_l
+    400004: brazolow_l_001
+    400006: brazolow_r
+    400008: brazolow_r_001
+    400010: brazoup_l
+    400012: brazoup_r
+    400014: cabeza
+    400016: control
+    400018: hoja
+    400020: //RootNode
+    400022: mano_l
+    400024: mano_r
+    400026: muslo_l
+    400028: muslo_r
+    400030: pCube1
+    400032: pCube2
+    400034: pCube3
+    400036: pecho
+    400038: pie_l
+    400040: pie_r
+    400042: pierna_l
+    400044: pierna_l_001
+    400046: pierna_r
+    400048: pierna_r_001
+    400050: transform1
+    400052: transform2
+    4300000: pCube3
     7400000: Default Take
-    7400002: Caminar
-    7400004: Corriendo
-    7400006: Golpe
-    7400008: Patada
-    7400010: Saltando
+    7400002: jumping
+    7400004: paracaidas
+    7400006: running
+    7400008: shoting
+    7400010: standing
+    7400012: walking
     9500000: //RootNode
-    13700000: cebolla_low_poly_001
+    13700000: pCube3
   materials:
     importMaterials: 1
     materialName: 0
