@@ -63,10 +63,6 @@
      <Compile Include="Assets\Scripts\Player\PlayerParams.cs" />
      <Compile Include="Assets\Scripts\prueba_cubo.cs" />
      <None Include="Assets\plugins\Demigiant\DOTween\readme.txt" />
-     <None Include="Assets\models\Terreno\Terreno\Library\LastSceneManagerSetup.txt" />
-     <None Include="Assets\models\Terreno\Terreno\Library\LibraryFormatVersion.txt" />
-     <None Include="Assets\models\Terreno\Terreno\Library\UnityAssemblies\version.txt" />
-     <None Include="Assets\models\Terreno\Terreno\ProjectSettings\ProjectVersion.txt" />
  <Reference Include="UnityEngine.UI">
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
  </Reference>
