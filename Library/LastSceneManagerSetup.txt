@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Levels/Terreno Andres/Terreno/Terreno.unity
+  isLoaded: 1
+  isActive: 1
